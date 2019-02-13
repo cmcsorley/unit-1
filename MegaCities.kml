@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document>
+<Placemark>
+<name>Tokyo</name>
+<description>30.3</description>
+<Point><coordinates>139.759455,35.682839,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Delhi</name>
+<description>7.33</description>
+<Point><coordinates>77.221939,28.651718,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Shanghai</name>
+<description>6.85</description>
+<Point><coordinates>121.488892,31.225344,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>São Paulo</name>
+<description>13.39</description>
+<Point><coordinates>-46.633382,-23.550651,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Mumbai (Bombay)</name>
+<description>10.39</description>
+<Point><coordinates>72.835238,18.938754,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Ciudad de México (Mexico City)</name>
+<description>14.28</description>
+<Point><coordinates>-99.133342,19.432601,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Beijing</name>
+<description>6.02</description>
+<Point><coordinates>116.391248,39.905963,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Kinki M.M.A. (Osaka)</name>
+<description>17.58</description>
+<Point><coordinates>-100.445882,39.78373,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Al-Qahirah (Cairo)</name>
+<description>8.33</description>
+<Point><coordinates>31.243666,30.048819,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>New York-Newark</name>
+<description>15.83</description>
+<Point><coordinates>-100.445882,39.78373,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Dhaka</name>
+<description>4.66</description>
+<Point><coordinates>90.378814,23.759357,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Karachi</name>
+<description>6.03</description>
+<Point><coordinates>67.031129,24.86678,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Buenos Aires</name>
+<description>9.96</description>
+<Point><coordinates>-58.437076,-34.607562,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Kolkata (Calcutta)</name>
+<description>9.95</description>
+<Point><coordinates>88.347602,22.567746,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Istanbul</name>
+<description>5.41</description>
+<Point><coordinates>28.965165,41.009633,0</coordinates></Point>
+</Placemark>
+</Document>
+</kml>
